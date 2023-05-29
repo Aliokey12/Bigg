@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+#sa{
+padding: 10px;
+  height: 40px;
+ 
+border: 1px solid gray;
+
+
+}
+
+
+
+#logo img{
+border-radius: 50%;
+margin-right: 330px;
+
+}
+
+.row a{
+  font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+color: black;
+}
+
+.row a:hover{
+color: orangered;
+
+}
+
+#aa{
+  padding-top: 20px;
+
+
+}
+#tl{
+padding-left: 500px;
+
+}
+
+
+
+#İndirimler{
+   font-size: 24px;
+  margin-left: 47%;
+
+
+}
+
+#İndirimler:hover{
+color: orangered;
+}
+
+.salam >ul>li:nth-child(1):hover{
+  transition-duration:2s; 
+  transition-property:padding, background-color; 
+  
+  height:100px;
+  background-color:#5d3ebc;;
+
+  box-sizing:content-box;
+  color: #fff;
+  
+
+
+
+ 
+  
+}
+
+
+.salam >ul>li:nth-child(2):hover{
+  transition-duration:2s; 
+  transition-property:padding, background-color; 
+  
+  height:100px;
+  background-color:black;
+ 
+  box-sizing:content-box;
+ 
+color: white;
+  
+}
+
+
+.salam >ul>li:nth-child(3):hover{
+  transition-duration:2s; 
+  transition-property:padding, background-color; 
+  
+  height:100px;
+  background-color:black;
+  box-sizing:content-box;
+ 
+  color: white;
+  justify-content: center;
+
+  
+}
+
+
+.salam >ul>li:nth-child(4):hover{
+  transition-duration:2s; 
+  transition-property:padding, background-color; 
+
+  height:100px;
+  background-color:black;
+ 
+  box-sizing:content-box;
+color: white;
+
+}
+
+.ürün:hover{
+border: 2px solid black;
+box-shadow: 2px black;
+
+}
+
+.card{
+display: flex;
+  font-size: 90px;
+justify-content: center;
+align-items: center;
+float:inline-start;
+
+
+}
+
+.box{
+box-shadow: gray  0px 2px 2px;
+}
+
+#imas{
+  border-radius: 50px;
+
+
+}
+
+.sadsad{
+border: 1px solid #5d3ebc;
+}
+
+.asd{
+border: 1px solid black;;
+}
